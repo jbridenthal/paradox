@@ -10,7 +10,6 @@
   </PropertyGroup>
   <ItemGroup>
     <Content Include="wwwroot\earthorbiter.ttf" />
-    <Content Include="wwwroot\earth_orbiter.zip" />
     <Content Include="wwwroot\fonts\earthorbiter-webfont.woff" />
     <Content Include="wwwroot\fonts\earthorbiter-webfont.woff2" />
   </ItemGroup>
