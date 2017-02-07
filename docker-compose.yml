@@ -1,0 +1,8 @@
+version: '2'
+
+services:
+  paradox:
+    image: paradox
+    build:
+      context: ./Paradox
+      dockerfile: Dockerfile
